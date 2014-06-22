@@ -28,10 +28,6 @@ strong {font-weight: bold;}
   line-height: 2;
   word-wrap: break-word;
   -ms-word-wrap: break-word;
-  text-align: justify;
-  text-justify: inter-ideograph;
-  text-autospace: ideograph-alpha;
-  -ms-text-justify: inter-ideograph;
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
@@ -351,6 +347,7 @@ strong {font-weight: bold;}
     float: none;
     clear: both;
     width: auto;
-    margin: 0 0 15px; }
+    margin: 0 0 15px;
+  }
 
 }
