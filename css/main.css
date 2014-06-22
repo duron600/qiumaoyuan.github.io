@@ -24,6 +24,19 @@ a:visited { color: #205caa; }
 
 strong {font-weight: bold;}
 
+.post-content p {
+  line-height: 2;
+  word-wrap: break-word;
+  -ms-word-wrap: break-word;
+  text-align: justify;
+  text-justify: inter-ideograph;
+  text-autospace: ideograph-alpha;
+  -ms-text-justify: inter-ideograph;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
 /* Utility */
 
 .wrap:before,
