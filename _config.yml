@@ -1,0 +1,10 @@
+# Site settings
+title: yuan
+email: qmyemail@gmail.com
+description: "自己是一切问题的答案"
+baseurl: ""
+url: "http://codeartisan.me"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
