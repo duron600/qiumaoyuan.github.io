@@ -7,7 +7,7 @@ title: "设计已死？（Ai92 重译版）"
 
 英文原文：[Is Design Dead?](http://martinfowler.com/articles/designDead.html)
 
-以下内容为 Ai92 翻译，原文地址：[设计已死？（Ai92重译版）](http://blog.csdn.net/ai92/article/details/535430)
+以下内容为 Ai92 翻译，原译文地址：[设计已死？（Ai92重译版）](http://blog.csdn.net/ai92/article/details/535430)
 
 ***
 
