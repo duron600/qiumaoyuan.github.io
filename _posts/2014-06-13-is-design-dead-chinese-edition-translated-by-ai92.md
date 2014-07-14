@@ -3,11 +3,7 @@ layout: post
 title: "设计已死？（Ai92 重译版）"
 ---
 
-2014年06月13日，因为找不到译者的联系方式，同时译者似乎在2006年以后就没有登录过 CSDN，所以我在未经译者同意的情况下用 Markdown 重新排版了一下，上传到 github。其实原来只是我私人保存在 evernote 里的，不过 evernote 的阅读体验实在不怎样，所以找了 github 这么一个支持 Markdown 的地方。如果原译者有任何意见请随时与我邮件联系。
-
-英文原文：[Is Design Dead?](http://martinfowler.com/articles/designDead.html)
-
-以下内容为 Ai92 翻译，原译文地址：[设计已死？（Ai92重译版）](http://blog.csdn.net/ai92/article/details/535430)
+**以下内容为 Ai92 翻译，原译文地址：[设计已死？（Ai92重译版）](http://blog.csdn.net/ai92/article/details/535430)**
 
 ***
 
