@@ -1,1 +1,1 @@
-{"content":[{"key":"paragraph","data":{"content":"这是个标题吧？"},"common":{}},{"key":"paragraph","data":{"content":"还是内容啊？"},"common":{}},{"key":"paragraph","data":{"content":""},"common":{}}],"typeset":"default","layout":"web"}
+{"content":[{"key":"list","data":{"style":"unordered","items":[{"content":"这是个标题吧？","style":"unordered","items":[]}]},"common":{}},{"key":"paragraph","data":{"content":"还是内容啊？"},"common":{}},{"key":"paragraph","data":{"content":""},"common":{}}],"typeset":"default","layout":"web"}
